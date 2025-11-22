@@ -1,0 +1,7 @@
+{
+  "name": "Muhammad Awais | ManimMotion Portfolio",
+  "description": "Professional portfolio of Muhammad Awais, expert in Manim 2D animations and faceless video editing for educational content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
